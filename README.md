@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on many cool projects and tasks.
 - 🌱 I’m currently learning a lot about github
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I think facts are fun✨
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I collect old cameras.
 
 <!--
 **krystalhegg/krystalhegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
