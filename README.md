@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on many cool projects and tasks.
-- 🌱 I’m currently learning a lot about github
+- 🌱 I’m currently learning a lot about github.
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I collect old cameras.
 
